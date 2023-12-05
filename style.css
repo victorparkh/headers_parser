@@ -1,0 +1,16 @@
+body {
+    width: 300px;
+}
+
+.btn__block{
+    text-align: center;
+}
+
+#parseBtn {
+    width: 120px;
+    height: 40px;
+    background: #008080;
+    color: #fff;
+   border: none;
+   border-radius: 5px;
+}
