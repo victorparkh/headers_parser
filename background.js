@@ -1,25 +1,4 @@
 
-// let headersData = {
-//     h1Headings: [],
-//     h2Headings: [],
-//     h3Headings: []
-//   };
-  
-//   chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
-//     if (request.action === 'getHeadersData') {
-//       sendResponse(headersData);
-//     }
-//   });
-  
-  
-//   chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
-//     if (request.action === 'updateHeadersData') {
-//       headersData = request.headersData;
-//     }
-//   });
-
-// background.js
-
 let extensionData = {
     h1Headings: [],
     h2Headings: [],
